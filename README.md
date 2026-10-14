@@ -21,12 +21,11 @@
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Redash](https://img.shields.io/badge/Redash-FF7964?style=for-the-badge)
 
-## 📂 Проекты
-| Проект | Что сделано | Стек |
+| Проект | Описание | Стек |
 |---|---|---|
-| [A/B-тест рекламной кампании](https://github.com/muslim-maker/marketing-ab-test) | Анализ эффекта: +0,77 п.п. конверсии, ДИ, бутстреп, поправка Холма | Python, SciPy, statsmodels |
-| [Воронка и LTV SaaS](https://github.com/muslim-maker/saas-funnel-analytics) | SQL для воронки, когорт, LTV, дашборд (синтетические данные) | ClickHouse, Power BI |
-| [Retention и RFM e-commerce](https://github.com/muslim-maker/ecommerce-retention-rfm) | Очистка 536 тыс. строк, когорты, RFM-сегменты | Python, pandas, seaborn |
+| [A/B-тест рекламной кампании](https://github.com/muslim-maker/marketing-ab-test) | Проверила, повышает ли реклама конверсию: проанализировала A/B-тест и подтвердила результат бутстрепом. Конверсия выросла с 1,79% до 2,55% (+43%). | Python, SciPy, statsmodels |
+| [Воронка и LTV SaaS-продукта](https://github.com/muslim-maker/saas-funnel-analytics) | Искала, где продукт теряет пользователей: написала SQL для воронки, когорт и LTV и собрала дашборд в Power BI. Основные потери оказались на входе (37,5%) и на оплате (35,4%). Данные синтетические. | ClickHouse, Power BI |
+| [Retention и RFM e-commerce](https://github.com/muslim-maker/ecommerce-retention-rfm) | Разобралась, как возвращаются клиенты: очистила данные, посчитала retention и сегментировала клиентов по RFM. Оказалось, что VIP-клиенты (10,6%) приносят 45,7% выручки. | Python, pandas, seaborn |
 
 ## 📫 Связь
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MuslimAninya)
