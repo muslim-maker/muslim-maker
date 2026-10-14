@@ -1,11 +1,11 @@
 <h1 align="center">Привет, я Алина 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=22&pause=1200&center=true&vCenter=true&width=600&lines=Junior+Data+Analyst;Product+Analytics+%7C+A%2FB-%D1%82%D0%B5%D1%81%D1%82%D1%8B+%7C+SQL;%D0%9F%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%BE%D0%B2%D1%8B%D0%B9+%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=22&pause=1200&center=true&vCenter=true&width=600&lines=Data+Analyst;%D0%9F%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%BE%D0%B2%D1%8B%D0%B9+%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA" alt="typing" />
 </p>
 
 ## 📊 Обо мне
-- Учусь на прикладной информатике и параллельно разбираю продуктовую аналитику на реальных датасетах
+- Учусь на прикладной информатике и параллельно разбираю продуктовую аналитику
 - Люблю копаться в данных, находить закономерности и делать из них практичные выводы
 - Проверяю гипотезы статистикой, а не интуицией
 - Хочу в команду, где данные влияют на решения
